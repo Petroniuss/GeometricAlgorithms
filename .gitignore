@@ -105,3 +105,6 @@ venv.bak/
 
 # compressed files
 *.zip
+
+# presentations
+*.ppt
