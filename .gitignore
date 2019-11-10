@@ -107,4 +107,4 @@ venv.bak/
 *.zip
 
 # presentations
-.ppt
+*.ppt
