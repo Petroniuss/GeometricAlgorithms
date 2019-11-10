@@ -1,3 +1,0 @@
-Patryk Wojtyczek
-
-Na zajęciach udało mi się zrobić pierwsze dwa podpunkty i rozpocząć implementację klasyfikacj: zaimplementowałem wyznacznik i klasyfikację punktów.
