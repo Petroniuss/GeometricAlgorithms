@@ -11,4 +11,4 @@ Completed assignments from Geometric Algorithms Course.
 
 ### Notes
 - Each script contains visualization for implemented algorithms
-- I HATE PYTHON!!! (so don't blame me when code gets ugly)
+- Scripts could have used some polishing but there wasn't much time for that...
